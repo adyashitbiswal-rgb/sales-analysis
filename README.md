@@ -1,4 +1,4 @@
-# Project 1 — Sales Data Analysis
+# Sales Data Analysis
 
 ## Goal
 Explore sales transactions and identify revenue patterns by month, product, and region.
